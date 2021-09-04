@@ -41,7 +41,7 @@ namespace LoginApp
             {
                 
                 {
-                    SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= C:\Users\SkillOnex\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\LoginApp\LoginApp\LoginApp\Database1.mdf;Integrated Security=True;Connect Timeout=30");
+                    SqlConnection conn = new SqlConnection(@"");
                     string query = "SELECT * FROM Login WHERE Usuario = '" + Usertext.Text.Trim() + "' AND Password = '" + Passtext.Text.Trim() + "'";
                     SqlDataAdapter sda = new SqlDataAdapter(query, conn);
                     DataTable dta = new DataTable();
