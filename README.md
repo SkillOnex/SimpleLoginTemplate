@@ -4,7 +4,8 @@
 #
 
 <p align="center"> Esse templete foi criado por mim com o intuito das pessoas iniciantes
-poderem baixar visualizar e estudar sobre ele! </p>
+poderem baixar visualizar e estudar sobre ele, O foco não foi criar um "Sistema de login" e sim mostrar como o Layout pode ser construido,mas adicionei um sistema simples de login
+pra mostrar como ele pode funcionar.</p>
 
 #
 
@@ -31,3 +32,8 @@ existem modos mais "bem feitos" para implementar sistemas de login.
   <img align="center" height="485" width="324" src="https://cdn.discordapp.com/attachments/799080849806327888/883757682807427162/unknown.png">
   <img align="center" height="485" width="324" src="https://cdn.discordapp.com/attachments/799080849806327888/883758100128084018/unknown.png">
 </div>
+
+#
+
+<p align="center"> Você é livre pra baixar ultilizar e modificar só cuidado com os fins que você pode dar pro mesmo, por favor não ultilize esse template para implementar 
+em ferramentas que podem prejudicar outras pessoas!</p>
