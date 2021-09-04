@@ -4,19 +4,19 @@
 #
 
 <p align="center"> Esse templete foi criado por mim com o intuito das pessoas iniciantes
-poderem baixar e visualizar, e estudar sobre ele ! </p>
+poderem baixar visualizar e estudar sobre ele! </p>
 
 #
 
 <p align="center"> O templete tem um sistema simples de conexão com Database Sql, sendo assim 
-Você consegue interagir com a login e registro.</p>
+Você consegue interagir com o login e registro.</p>
 
 #
 
 <p align="center"> Atenção caso você que baixou ou apenas visualisou esse templete queira usar pra outros fins
 como implementação do mesmo em alguma aplicação lembre-se </p>
 
-<p align="center"> os codigos contidos no mesmo não possuem nenhum tipo de segurança podendo ser facilmente 
+<p align="center"> Os codigos contidos no mesmo não possuem nenhum tipo de segurança podendo ser facilmente 
 manipulados por alguem que tenha o conhecimento,então por favor caso queira usar 
 adicione modos de segurança como criptografia nas chaves de login/usuario dentre outros meios. </p>
 
