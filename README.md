@@ -26,3 +26,8 @@ adicione modos de segurança como criptografia nas chaves de login/usuario dentr
 existem modos mais "bem feitos" para implementar sistemas de login.
   
 <p align="center"> Lembrando não sou expert em nada! </p>
+
+<div style="display: inline_block"><br> 
+  <img align="center" height="485" width="324" src="https://cdn.discordapp.com/attachments/799080849806327888/883757682807427162/unknown.png">
+  <img align="center" height="485" width="324" src="https://cdn.discordapp.com/attachments/799080849806327888/883758100128084018/unknown.png">
+</div>
